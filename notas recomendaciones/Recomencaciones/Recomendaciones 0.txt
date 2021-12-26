@@ -1,0 +1,18 @@
+instalar Package Control principalmente para sublime text
+instalar 
+para instalar vas a preferences Package Control y ahi instalar  lo siguiente
+
+emmet
+advancednewfile
+autofilename
+bootstrap 4 autocomplete
+brackethighlighter
+comment-snippets
+console wrap
+html minifier
+jsformat-master
+
+Algo tremendamente util cuando estoy trabajando con Sublime Text 3 es el auto guardado (auto save), ya que te evita del molesto Ctrl+s cada que has modificado un archivo y quieres que ver los resultados. He visto que esto es cuestión de gustos ya que algunos programadores prefieren estar guardando manualmente.
+Para habilitar esta caracteristica basta con ir al menu de Preferences->Settings, luego se abrirá una nueva ventana donde hay que poner lo siguiente.
+
+"save_on_focus_lost": true,

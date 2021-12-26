@@ -1,0 +1,60 @@
+/* section
+
+ESCRITORIO (XL REVISAMOS EN 1366PX EN ADELANTE )
+ */
+
+
+
+
+ /* section
+
+Tablet horizontal (LG REVISAMOS EN 1024PX )
+ */
+@media ( max-width:1199px) and (min-width: 992px){
+
+
+
+
+}
+
+
+ /* section
+
+Tablet vertical (MD REVISAMOS EN 768PX )
+ */
+
+@media ( max-width:991px) and (min-width: 768px){
+
+
+
+	
+}
+
+
+
+ /* section
+
+Movil horizontal  (SM REVISAMOS EN 576PX )
+ */
+@media ( max-width:767px) and (min-width: 576px){
+
+
+
+	
+}
+
+
+
+
+  /* section
+
+Movil vertical( REVISAMOS EN 320PX )
+ */
+@media ( max-width:575px){
+
+
+
+	
+}
+
+

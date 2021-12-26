@@ -1,0 +1,49 @@
+jqueryscrip.net para descargar plugins
+w3schools documentacion prog
+
+resoluciones segun dispositivo
+full hd :1920 px col-xl
+portatil:1366 px  col-xl
+tablet horizontal:1024 px col-lg
+tablet vertical:768 px col-md
+movil h:576 px col-sm
+movil v:320px col-
+
+"d-block d-md-none" significa que el bloque solo se mostrara a partir del
+de resoluciones inferiores a "md=768px" esto funciona para adaptar a 
+cualquier resolucion  
+
+
+pagina donde ver todas las clases de booststrap
+https://hackerthemes.com/bootstrap-cheatsheet/
+
+
+atajos
+
+Nombre	Función
+shif+tab       para pegar todo al costado izquierdo
+Ctrl + R	Para buscar una función dentro del archivo que tienes abierto, puedes utilizar Ctrl + R.
+Ctrl + D	Ubicándote en una palabra y sombreandola, al utilizar Ctrl + D seleccionas todas las palabras iguales en el archivo.
+Ctrl + Shift + D	Ubicándote en la línea, utilizando Ctrl + Shift + D se copiara en la línea de abajo lo mismo.
+Ctrl + Shift + ‘Flecha Arriba’ ó ‘Flecha Abajo‘	Para cambiar la posición de una línea hacia arriba o abajo.
+Ctrl + Click	Si quieres escribir en varias líneas a la vez, basta con utilizar Ctrl + Click en las líneas donde quieras.
+Ctrl + P	Permite buscar archivos y abrirlos
+Ctrl + H	Permite reemplazar una cadena por otra
+Alt + Shift + [1,2,3,4…]	Muestra columnas según el número.
+Ctrl + KB	Mostrar/Ocultar SideBar
+Ctrl + A	Seleccionar todo
+Ctrl + Shift + J	Seleccionar todo los hijos
+Ctrl + L	Seleccionar Lineas (Para seleccionar varias a la vez con Ctrl apunte a varias)
+Ctrl + A	Seleccionar Todo
+Ctrl + Shift + M	Selección dentro de llaves
+Ctrl + F	Búsqueda simple
+Ctrl + Shift + F	Búsqueda avanzada o Reemplazar texto
+Ctrl + KL	Texto en minúsculas
+Ctrl + KU	Texto en mayúsculas
+Ctrl + Q	Cerrar Sublime
+Ctrl + M	Saltar a donde se cierra la llave o el elemento
+/** + Tab	Comentarios
+Ctrl + G	Ir a numero de linea
+ctrl+allt+n crear nuevo archivo
+ctrl+. guarda el sidebar 
+ctrl+} comenta el codigo sombreado (es la tecla al lado del ctrl)

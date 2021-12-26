@@ -1,0 +1,37 @@
+PAGINA PARA OPTIMIZAR IMAGENES 
+https://tinypng.com
+
+PAGINA PARA FUENTES DE GOOGLE 
+https://fonts.google.com
+
+el "*" es un selector universal css
+
+para hacer que el side bar se vaya con atajos debemos ir a "preferences",clik en "key binding" 
+y colocar el siguente codigo
+
+	{"keys":["ctrl+."], "comand":  "toggle_side_bar"} 
+
+el atributo "allt" ayuda que aparesca en el buscador de interner lo que este vinculado de una forma r
+
+ICONOS
+https://fontawesome.com/icons?d=gallery&p=2
+
+margen vertical my
+margen horizontal mx
+margen superios mt
+margen derecha mr
+margen izquierda ml
+pading "" py
+pading "" px
+pading derecha pr
+pading izquierda pl
+pading superior pt
+
+input-group-sm sirve para hacer el buscador mas pequeño
+
+https://www.jqueryscript.net/slider/Carousel-Slideshow-jdSlider.html 
+paginas de plugins para jquery en esta pagina "explican abajo como instalar el los plugins
+ademas la expresion "example"se refiere a una clase o variable de que debes crear con el nombre
+que quieras
+
+comm-section comentar en bloque para js

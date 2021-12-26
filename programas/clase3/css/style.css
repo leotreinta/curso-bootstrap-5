@@ -1,0 +1,189 @@
+/* section
+
+ESCRITORIO (XL REVISAMOS EN 1366PX EN ADELANTE )
+ */
+
+*{
+	
+	/*font-family: 'Chewy', cursive;*/
+}
+
+ul, ol{
+		/* formatear los estilos de predeterminados para estas etiquetas*/
+	list-style: none;
+}
+
+a:visited, a:link, a:focus, a:hover, a:active{
+	/* formatear los estilos de predeterminados para estas etiquetas*/
+	list-style:none;
+	text-decoration:none; 
+}
+
+/*----------------------------------------
+					Header
+------------------------------------------- */
+
+header{
+	position:fixed;
+	top: 0;
+	left: 0;
+	z-index: 5;
+	background: rgba(0,0,0,0.5);
+ }
+
+header .logotipo{
+	width: 45%;
+	
+}
+
+header .redes ul li i {
+
+	width: 35px;
+	line-height: 35px;
+	text-align: center;
+	cursor:pointer;
+	
+}
+
+.redes ul li i.fa-facebook-f{
+	background:#1475E0; 
+}
+
+.redes ul li i.fa-instagram {
+	background:#B18768; 
+}
+
+.redes ul li i.fa-twitter{
+	background:#00A6FF; 
+}
+
+.redes ul li i.fa-youtube{
+	background:#F95F62; 
+}
+
+.redes ul li i.fa-snapchat-ghost{
+	background:#FF9052; 
+}
+
+ .fa-bars{
+ 	font-size: 35px;
+ 	bottom:0px; 
+ }
+
+.redesmovil{
+	position:fixed; 
+	bottom: -10px;
+	left: 50%;
+	transform: translate(-50%, 0%);
+/*esto es para centrar iconos fijos abajo */
+
+}
+
+
+/*----------------------------------------
+					BANNER
+------------------------------------------- */
+ .fade-slider{
+	position: fixed !important;
+	z-index: -1;
+	top:0;
+	left: 0;
+}
+
+.bannerEstatico {
+	background:rgba(0,0,0,0);
+	
+}
+
+
+
+
+ /* section
+
+Tablet horizontal (LG REVISAMOS EN 1024PX )
+ */
+@media ( max-width:1199px) and (min-width: 992px){
+
+
+
+
+}
+
+
+ /* section
+
+Tablet vertical (MD REVISAMOS EN 768PX )
+ */
+
+@media ( max-width:991px) and (min-width: 768px){
+	header .logotipo{
+	width: 55%;
+	
+}
+
+
+
+
+	
+}
+
+
+
+ /* section
+
+Movil horizontal  (SM REVISAMOS EN 576PX )
+ */
+@media ( max-width:767px) and (min-width: 576px){
+
+header .logotipo{
+	width: 65%;
+	
+}
+ .redes ul li i {
+
+	width: 35px;
+	line-height: 35px;
+	text-align: center;
+	cursor:pointer;
+	
+}
+.fade-slider{
+	height: 69px;
+
+}
+
+	
+}
+
+
+
+
+  /* section
+
+Movil vertical( REVISAMOS EN 320PX )
+ */
+@media ( max-width:575px){
+
+header .logotipo{
+	width: 80%;
+	
+}
+
+
+ .redes ul li i {
+
+	width: 35px;
+	line-height: 35px;
+	text-align: center;
+	cursor:pointer;
+	
+}
+.fade-slider{
+	height: 50px;
+
+}
+
+	
+}
+
+
